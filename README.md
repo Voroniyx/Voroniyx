@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my Name is Voroniyx
 
 <!--
 **Voroniyx/Voroniyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+## Thinks about me
+
+- 🛠️ I´m  a Bot Developer
+- ⚙️ I working with JavaSkript and CSS, HTML
+- 🛡️ I modarate a lot of Discord Servers 
+- ✉️ Discord Name: [Voroniyx#2022](https://discord.com/channels/)
