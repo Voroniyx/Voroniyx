@@ -21,4 +21,12 @@ Here are some ideas to get you started:
 - 🛠️ I´m  a Bot Developer
 - ⚙️ I working with JavaSkript and CSS, HTML
 - 🛡️ I modarate a lot of Discord Servers 
-- ✉️ Discord Name: [Voroniyx#2022](https://discord.com/channels/)
+- 💬 Discord Name: [Voroniyx#2022](https://discord.com/channels/)
+
+
+### Main Projekts
+
+-My Website: [Link incomming](https://github.com/Voroniyx)
+-Anti Mention: At the moment Anti Mention is only on [BxWb](https://discord.gg/bxwb), but I'm planning a database system for the future so that everyone can invite the bot.
+# Projects that have been put on hold
+-Foniyx: The bot is offline since 11/17/2021.
