@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - 🛠️ I´m  a Bot Developer
 - ⚙️ I working with JavaSkript and CSS, HTML
 - 🛡️ I modarate a lot of Discord Servers 
-- 💬 Discord Name: [Voroniyx#2022](https://discord.com/channels/)
+- 💬 Discord Name: [Voroniyx#2022](https://discord.com/users/863453422632173568)
 
 
