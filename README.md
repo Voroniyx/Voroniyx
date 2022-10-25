@@ -1,26 +1,11 @@
 ### Hi, my Name is Voroniyx
 
-<!--
-**Voroniyx/Voroniyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ---
 ## Thinks about me
 
-- 🛠️ I´m  a Bot Developer
-- ⚙️ I working with JavaSkript and CSS, HTML
-- 🛡️ I modarate a lot of Discord Servers 
-- 💬 Discord Name: [Voroniyx#2022](https://discord.com/users/863453422632173568)
+Hi,
+my name is Voroniyx, I am a hobby developer, specialized in backend (Node.js, MongoDB) and Discord Bot programming (discord.js).
+
 
 
