@@ -25,5 +25,3 @@ I'm always hungry to learn and grow. Currently, I'm immersing myself in the worl
 I'm always open to collaborating on exciting projects, sharing knowledge, or just having a good conversation. Feel free to reach out to me through GitHub.
 
 Thanks for stopping by! Let's create something amazing together. 😄👨‍💻🌟
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voroniyx&theme=tokyonight&hide_border=true&layout=compact" />
-
