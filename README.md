@@ -14,8 +14,9 @@ Welcome to my GitHub profile. I'm a passionate developer with a strong backgroun
 Here are some of the projects I've been working on:
 
 - **Acronix Bot:** https://github.com/AcronixBot
-- **Simple Docker Web Dash** An easy to use and simple Docker Web Dashboard - Currently in Development
-
+- **Translation - [Deh Bot](https://github.com/discordexperimenthub/deh-bot):** Managing PRs and Issues related to localization
+- **Web - [Deh Bot](https://github.com/discordexperimenthub/deh-bot):** Currently Working on the first Version of the Website for Deh Bot
+  
 ## 📚 Learning Journey
 
 I'm always hungry to learn and grow. Currently, I'm immersing myself in the world of C# to explore backend development and broaden my expertise. Learning is a never-ending journey, and I'm excited to see where it takes me next!
