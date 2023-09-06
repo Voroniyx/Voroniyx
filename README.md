@@ -14,8 +14,8 @@ Welcome to my GitHub profile. I'm a passionate developer with a strong backgroun
 Here are some of the projects I've been working on:
 
 - **Acronix Bot:** https://github.com/AcronixBot
-- **Translation - [Deh Bot](https://github.com/discordexperimenthub/deh-bot):** Managing PRs and Issues related to localization
-- **Web - [Deh Bot](https://github.com/discordexperimenthub/deh-bot):** Currently Working on the first Version of the Website for Deh Bot
+- **[Deh Bot](https://github.com/discordexperimenthub/deh-bot) - Translation:** Managing PRs and Issues related to localization
+- **[Deh Bot](https://github.com/discordexperimenthub/deh-bot) - Web:** Currently Working on the first Version of the Website for Deh Bot
   
 ## 📚 Learning Journey
 
