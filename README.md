@@ -15,7 +15,7 @@ Here are some of the projects I've been working on:
 
 - **Acronix Bot:** https://github.com/AcronixBot
 - **[Deh Bot](https://github.com/discordexperimenthub/deh-bot) - Translation:** Managing PRs and Issues related to localization
-- **[Deh Bot](https://github.com/discordexperimenthub/deh-bot) - Web:** Currently Working on the first Version of the Website for Deh Bot
+- **[Deh Bot Web](https://github.com/discordexperimenthub/bot-web) - Web:** Currently Working on the first Version of the Website for Deh Bot
   
 ## 📚 Learning Journey
 
