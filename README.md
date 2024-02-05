@@ -4,8 +4,8 @@ Welcome to my GitHub profile. I'm a passionate developer with a strong backgroun
 
 ## 🚀 Skills and Expertise
 
-- **Front-end Development:** HTML, CSS, JavaScript
-- **Modern Web Frameworks:** Vue.js, Vite
+- **Front-end Development:** HTML, CSS, JavaScript, Tailwind CSS
+- **Modern Web Frameworks:** Vue.js, Next.js, Vite
 - **TypeScript Enthusiast:** Leveraging the power of TypeScript for robust and maintainable code
 - **Eager Learner:** Currently diving into the world of C# to broaden my skill set
 
@@ -14,7 +14,6 @@ Welcome to my GitHub profile. I'm a passionate developer with a strong backgroun
 Here are some of the projects I've been working on:
 
 - **Acronix Bot:** https://github.com/AcronixBot
-- **[Deh Bot](https://github.com/discordexperimenthub/deh-bot) - Translation:** Managing PRs and Issues related to localization
 - **[Deh Bot](https://github.com/discordexperimenthub/bot-web) - Web:** Currently Working on the first Version of the Website for Deh Bot
   
 ## 📚 Learning Journey
